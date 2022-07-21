@@ -6,8 +6,14 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
+/* ::selection{
   color: inherit;
+  background-color: lightblue;
+} */
+
+a {
+  /* color: inherit; */
+  color: #1890ff;
   text-decoration: none;
 }
 

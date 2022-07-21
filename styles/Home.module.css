@@ -1,5 +1,11 @@
+.nav {
+  
+}
+
+
 .container {
-  padding: 0 2rem;
+  width: 1200px;
+  margin: auto;
 }
 
 .main {
